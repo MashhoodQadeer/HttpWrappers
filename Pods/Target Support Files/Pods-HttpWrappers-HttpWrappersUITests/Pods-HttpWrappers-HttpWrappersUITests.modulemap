@@ -1,0 +1,6 @@
+framework module Pods_HttpWrappers_HttpWrappersUITests {
+  umbrella header "Pods-HttpWrappers-HttpWrappersUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

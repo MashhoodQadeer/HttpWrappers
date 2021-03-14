@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.9.1)
+  - ObjectMapper (4.2.0)
+  - SDDownloadManager (1.1.0)
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - ObjectMapper
+  - SDDownloadManager
+  - Socket.IO-Client-Swift (~> 15.2.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ObjectMapper
+    - SDDownloadManager
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  SDDownloadManager: 62a9339c03ea27606effefd9aa1800e4127e3a52
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: b167a4edde2f8c388301e44b43d476ede5d4387f
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "96A5F1E2-BCBA-432E-B51E-D29062A34431"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E434598F-BA6E-4B1E-8FA6-7A6EF30CD0EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HttpWrappers/Network/APIResponse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "handleResponse(parameters:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9D331E3-D717-4631-B3D5-B766FC499A47"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HttpWrappers/Network/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "opertationWithRequest(withApi:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E2D4468-49CD-4411-B552-322D57D57E9E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HttpWrappers/Network/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "opertationWithRequest(withApi:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14DEBFFD-F519-42AB-B2EB-1DAE7BAC43C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HttpWrappers/Network/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "opertationWithRequest(withApi:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "14DEBFFD-F519-42AB-B2EB-1DAE7BAC43C1 - 8b70f51daafc76ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HttpWrappers.APIManager.opertationWithRequest(withApi: HttpWrappers.API, completion: (HttpWrappers.APIResponse) -&gt; ()) -&gt; ()"
+                  moduleName = "HttpWrappers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mashhoodqadeer/Documents/ProjectsBackups/HttpWrappers/HttpWrappers/HttpWrappers/Network/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "14DEBFFD-F519-42AB-B2EB-1DAE7BAC43C1 - f20bb088280d3db9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.AnyObject&gt;) -&gt; () in HttpWrappers.APIManager.opertationWithRequest(withApi: HttpWrappers.API, completion: (HttpWrappers.APIResponse) -&gt; ()) -&gt; ()"
+                  moduleName = "HttpWrappers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mashhoodqadeer/Documents/ProjectsBackups/HttpWrappers/HttpWrappers/HttpWrappers/Network/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "534">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BFEC85F-D630-47B6-A296-F47724701A43"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HttpWrappers/Network/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "opertationWithRequest(withApi:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0BFEC85F-D630-47B6-A296-F47724701A43 - 8b70f51daafc76ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HttpWrappers.APIManager.opertationWithRequest(withApi: HttpWrappers.API, completion: (HttpWrappers.APIResponse) -&gt; ()) -&gt; ()"
+                  moduleName = "HttpWrappers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mashhoodqadeer/Documents/ProjectsBackups/HttpWrappers/HttpWrappers/HttpWrappers/Network/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "0BFEC85F-D630-47B6-A296-F47724701A43 - f20bb088280d3db9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.AnyObject&gt;) -&gt; () in HttpWrappers.APIManager.opertationWithRequest(withApi: HttpWrappers.API, completion: (HttpWrappers.APIResponse) -&gt; ()) -&gt; ()"
+                  moduleName = "HttpWrappers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mashhoodqadeer/Documents/ProjectsBackups/HttpWrappers/HttpWrappers/HttpWrappers/Network/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "534">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAD14AC8-DCFD-4C86-AC82-E3E9087BDD5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HttpWrappers/Network/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "opertationWithRequest(withApi:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5436A8E1-F88E-4D9C-A03B-66E3BFF82EAE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HttpWrappers/Network/APIResponse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "handleResponse(parameters:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5436A8E1-F88E-4D9C-A03B-66E3BFF82EAE - b7ba62b126af37ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HttpWrappers.API.handleResponse(parameters: Swift.Optional&lt;SwiftyJSON.JSON&gt;) -&gt; Swift.Optional&lt;Swift.AnyObject&gt;"
+                  moduleName = "HttpWrappers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mashhoodqadeer/Documents/ProjectsBackups/HttpWrappers/HttpWrappers/HttpWrappers/Network/APIResponse.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "1091">
+               </Location>
+               <Location
+                  uuid = "5436A8E1-F88E-4D9C-A03B-66E3BFF82EAE - b7ba62b126af37ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HttpWrappers.API.handleResponse(parameters: Swift.Optional&lt;SwiftyJSON.JSON&gt;) -&gt; Swift.Optional&lt;Swift.AnyObject&gt;"
+                  moduleName = "HttpWrappers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mashhoodqadeer/Documents/ProjectsBackups/HttpWrappers/HttpWrappers/HttpWrappers/Network/APIResponse.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "1177">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

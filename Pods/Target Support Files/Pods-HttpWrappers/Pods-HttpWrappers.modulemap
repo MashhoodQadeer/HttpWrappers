@@ -1,0 +1,6 @@
+framework module Pods_HttpWrappers {
+  umbrella header "Pods-HttpWrappers-umbrella.h"
+
+  export *
+  module * { export * }
+}
